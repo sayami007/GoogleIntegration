@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "268772454862",
+    "project_id": "protean-torus-129623"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268772454862:android:80af6e606ac39d9a",
+        "android_client_info": {
+          "package_name": "com.appliaction.googleintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268772454862-6ri5jki7sejlqlg3b9rucppuh3kpotdm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appliaction.googleintegration",
+            "certificate_hash": "46B18D3A5671F59C9EEBBE6293E7EDE10E139F60"
+          }
+        },
+        {
+          "client_id": "268772454862-4c71o7d33keln89l7dbeit5h79sndlj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhletOW9Sd_eG8TYLT9ScIHwklYP18DMw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
